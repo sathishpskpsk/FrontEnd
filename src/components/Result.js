@@ -24,7 +24,7 @@ function Result() {
           <li>{localStorage.getItem("YOP")}</li>
           <li>{localStorage.getItem("Qualification")}</li>
           <li>{localStorage.getItem("Description")}</li>
-          <li>{localStorage.getItem("sschool")}</li>
+          <li>{localStorage.getItem("school")}</li>
           <li>{localStorage.getItem("sYOJ")}</li>
           <li>{localStorage.getItem("sYOP")}</li>
           <li>{localStorage.getItem("sQualification")}</li>
